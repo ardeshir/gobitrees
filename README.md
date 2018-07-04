@@ -1,2 +1,1 @@
-# gotress
 # go binary trees
